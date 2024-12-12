@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+}
+h1 {
+    text-transform: capitalize;
+    font-size: 2rem;
+    color: rgb(235, 190, 132);
+}
+
+.inspire {
+    width: 50%;
+    margin-left: 25%;
+    margin-top 100px;
+    color: rgb(224, 137, 22);
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+}
+.inspire-img {
+    border: 5px solid whitesmoke;
+    width: 100%;
+}
+    
+    
+    
+  
